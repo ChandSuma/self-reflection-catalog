@@ -1,7 +1,12 @@
 # Self-Reflection Question Catalog
 This catalog contains questions for self reflection
 
-![Self Reflection Cover](https://github.com/Yournally/self-reflection-catalog/blob/master/Media/self-reflection-cover.png)
+<p align="center">
+    <a href="https://yournally.app/en/home">
+        <img src="https://github.com/Yournally/self-reflection-catalog/blob/master/Media/self-reflection-cover.png" alt="Self-Reflection Question Catalog Cover"/>
+    </a>
+</p>
+
 ## Questions to start:
 
 - What are my core values? 
