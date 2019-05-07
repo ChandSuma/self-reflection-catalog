@@ -18,16 +18,23 @@ This catalog contains questions for self reflection
 - When am I at my best?
 
 ## Health 
+### Sleep
 - What time did I go to bed last night? 
 - Did I sleep well last night? 
 - What can I do to improve my sleep?
 - What did I dream of last night?
+
+### Food
 - What sport did I do today to become healthier?
 - What food did I eat today? 
 - How much water did I drink today?
+
+### Physical Condition
 - How is my physical condition today? 
     - What can I do to improve my physical condition? 
     - Have I done something for my physical condition today?
+
+### Mental State
 - How is my mental state today?
     - What influenced my mental state today in a positive or negative way?
 - How much stress did I experienced today?
