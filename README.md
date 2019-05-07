@@ -4,7 +4,7 @@
 - Search for a keyword or topic (for example: "career", "relationship")
 
 ## Table of Contents
-[Questions to start]
+[Questions to start](#questions-to-start)
 
 <p align="center">
     <a href="https://yournally.app/en/home">
