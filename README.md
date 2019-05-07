@@ -5,15 +5,10 @@
 
 ## Table of Contents
   * [Questions to start:](#questions-to-start-)
-  * [Health](#health)
-    + [Sleep](#sleep)
-    + [Food](#food)
-    + [Physical Condition](#physical-condition)
-    + [Mental State](#mental-state)
   * [Career](#career)
     + [Work Relationships](#work-relationships)
     + [Productivity](#productivity)
-  * [Financial Independence](#financial-independence)
+    + [Financial Independence](#financial-independence)
 
 
 <p align="center">
@@ -37,6 +32,17 @@
 - Are there any beliefs that I have that are limiting me?
 - What do I want for my life? (after all, if you don’t know what you want, how do you expect to get there?)
 - When am I at my best?
+
+## Personal Development
+### Mindfulness
+- What am I most grateful for today?
+- What's the best thing that happened today?
+- What inspired me today?
+- What made the day special for me? 
+- What made me smile today?
+
+### Learning
+### 
 
 ## Health 
 ### Sleep
@@ -68,19 +74,22 @@
     - What can I do to improve the relationship?
 
 ### Productivity
+- What am I going to do today?
 - What were my achievements at work today?
 - What did I learn from work today?
 - How did I carry out my work today?
+- How can I serve, contribute or add value with my work today?
 - Was I productive today?
     - What stopped me from beeing productive?
     - How can I avoid this distraction in the future?
 - What actions or methods could I have done differently today?
 - What tasks did I do today?
     - Were those tasks important?
+- Did I procrastinate today? Why (not)?
 - What problems did I encounter today?
     - Did I solve it / them? Why or why not and how?
 
-## Financial Independence
+### Financial Independence
 - How much did I spend today / this week / this month?
     - What did I bought?
     - Did I really need that?
