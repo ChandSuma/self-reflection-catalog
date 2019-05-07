@@ -1,5 +1,10 @@
 # Self-Reflection Question Catalog
-This catalog contains questions for self reflection
+## How to Use and Contribute
+- Go through the Table of Contents and choose the tool.
+- Search for a keyword or topic (for example: "career", "relationship")
+
+## Table of Contents
+[Questions to start]
 
 <p align="center">
     <a href="https://yournally.app/en/home">
