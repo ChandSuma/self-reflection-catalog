@@ -4,7 +4,17 @@
 - Search for a keyword or topic (for example: "career", "relationship")
 
 ## Table of Contents
-[Questions to start](#questions-to-start)
+  * [Questions to start:](#questions-to-start-)
+  * [Health](#health)
+    + [Sleep](#sleep)
+    + [Food](#food)
+    + [Physical Condition](#physical-condition)
+    + [Mental State](#mental-state)
+  * [Career](#career)
+    + [Work Relationships](#work-relationships)
+    + [Productivity](#productivity)
+  * [Financial Independence](#financial-independence)
+
 
 <p align="center">
     <a href="https://yournally.app/en/home">
