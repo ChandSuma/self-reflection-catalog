@@ -1,6 +1,7 @@
 # Self-Reflection Question Catalog
 This catalog contains questions for self reflection
 
+
 ## Questions to start:
 
 - What are my core values? 
@@ -38,3 +39,37 @@ This catalog contains questions for self reflection
 - How is my mental state today?
     - What influenced my mental state today in a positive or negative way?
 - How much stress did I experienced today?
+
+## Career
+### Work Relationships
+- How were my work relationships today?
+- How did I treat my co-workers today?
+- How was my relationship with my colleagues today?
+    - What can I do to improve the relationship?
+
+### Productivity
+- What were my achievements at work today?
+- What did I learn from work today?
+- How did I carry out my work today?
+- Was I productive today?
+    - What stopped me from beeing productive?
+    - How can I avoid this distraction in the future?
+- What actions or methods could I have done differently today?
+- What tasks did I do today?
+    - Were those tasks important?
+- What problems did I encounter today?
+    - Did I solve it / them? Why or why not and how?
+
+## Financial Independence
+- How much did I spend today / this week / this month?
+    - What did I bought?
+    - Did I really need that?
+    - What reasons made me spend that money?
+- How much did I made today / this week / this month?
+- What did I do towards my goal of financial independence?
+- What did I invest in today / this week / this month?
+- What was my investment income this month? 
+- What lessons have I learned about money?
+- Describe your current financial situation.
+    - How can I improve my financial situation today and in the future? 
+    - What brought me there? Beliefs, past decisions...? 
