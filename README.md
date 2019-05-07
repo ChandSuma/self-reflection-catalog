@@ -36,5 +36,5 @@ This catalog contains questions for self reflection
 
 ### Mental State
 - How is my mental state today?
-    - What influenced my mental state today in a positive or negative way?
+    - What influenced my mental state today in a positive or negative way?
 - How much stress did I experienced today?
