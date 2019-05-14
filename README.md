@@ -3,14 +3,6 @@
 - Go through the Table of Contents and choose the tool.
 - Search for a keyword or topic (for example: "career", "relationship")
 
-## Table of Contents
-  * [Questions to start:](#questions-to-start-)
-  * [Career](#career)
-    + [Work Relationships](#work-relationships)
-    + [Productivity](#productivity)
-    + [Financial Independence](#financial-independence)
-
-
 <p align="center">
     <a href="https://yournally.app/en/home">
         <img src="https://github.com/Yournally/self-reflection-catalog/blob/master/Media/self-reflection-cover.png" alt="Self-Reflection Question Catalog Cover"/>
@@ -33,16 +25,28 @@
 - What do I want for my life? (after all, if you don’t know what you want, how do you expect to get there?)
 - When am I at my best?
 
-## Personal Development
+## Personal Growth
 ### Mindfulness
 - What am I most grateful for today?
 - What's the best thing that happened today?
 - What inspired me today?
 - What made the day special for me? 
 - What made me smile today?
+- What's the feeling of the heart?
 
-### Learning
-### 
+### Reflection
+- What touched me in a special way? What made me feel happy / hurt / moved / scared / curios... ? 
+- From a broader perspective, which things don't seems that important anymore?
+
+### Personal Development
+- What things keep me from my long-term development and happiness?
+- What good habits have I executed today?
+- What mistakes did I make today? 
+    - How did I encounter them?  
+    - How can I avoid this mistake the next time? 
+-  What have I done for good today?
+- What kind of inspiration / motiviation / information do I need to improve my future?
+- What can I do to improve my future today?
 
 ## Health 
 ### Sleep
@@ -66,7 +70,7 @@
     - What influenced my mental state today in a positive or negative way?
 - How much stress did I experienced today?
 
-## Career
+## Career & Financials
 ### Work Relationships
 - How were my work relationships today?
 - How did I treat my co-workers today?
@@ -88,6 +92,7 @@
 - Did I procrastinate today? Why (not)?
 - What problems did I encounter today?
     - Did I solve it / them? Why or why not and how?
+- Have I avoided a difficult situation today or have I mastered it? 
 
 ### Financial Independence
 - How much did I spend today / this week / this month?
@@ -102,3 +107,25 @@
 - Describe your current financial situation.
     - How can I improve my financial situation today and in the future? 
     - What brought me there? Beliefs, past decisions...? 
+    
+### Achieve Goals
+- What is my goal for the day / week / month / quarter / year?
+- What have i done today to get closer to that goal?
+- Has my goal changed and why?
+    
+## Social 
+### Social Interactions
+- Did I care about others? 
+- Was I concerned about others?
+- Whose behavior or discourse made me feel good or bad?
+- Who did (or didn't) I get along with today?
+- Have I helped someone today? What did I do to help? 
+- Did someone helped me today? Have I thanked you enough?
+- Did I integrate well today? What helped me or prevented me from doing so?
+
+### Family
+- Did I let my family know I love them?
+- What would I like to do to make my family happier?
+
+### Relationship
+- Did I let my parnter know I love them?
