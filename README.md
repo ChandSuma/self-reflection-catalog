@@ -28,6 +28,7 @@
 ## Personal Growth
 ### Mindfulness
 - What am I most grateful for today?
+- Am I taking anything for granted?
 - What's the best thing that happened today?
 - What inspired me today?
 - What made the day special for me? 
@@ -37,6 +38,7 @@
 ### Reflection
 - What touched me in a special way? What made me feel happy / hurt / moved / scared / curios... ? 
 - From a broader perspective, which things don't seems that important anymore?
+
 
 ### Personal Development
 - What things keep me from my long-term development and happiness?
@@ -78,6 +80,7 @@
     - What can I do to improve the relationship?
 
 ### Productivity
+- Am I using my time wisely?
 - What am I going to do today?
 - What were my achievements at work today?
 - What did I learn from work today?
