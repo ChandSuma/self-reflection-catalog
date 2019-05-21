@@ -17,8 +17,8 @@ The aim of this catalogue is to provide and maintain an optimal overview and an 
 - Search for a keyword or topic (for example: "career", "relationship")
 - [Ask us](https://twitter.com/yournally) on Twitter. 
 
-If you want to add some great and helpful questions, just send a Pull Request and respect our [Contribution Guidelines](https://github.com/Yournally/self-reflection-catalog/blob/master/Contribution-Guidelines.md) (have a look, they are very simple). 
-If you have ideas for better categorization or other feautures please let us know an we'll try our best to implement them. 
+If you want to add some great and helpful questions, just send a Pull Request and respect our [Contribution Guidelines](https://github.com/Yournally/self-reflection-catalog/blob/master/Contribution-Guidelines.md) (have a look, they are simple). 
+If you have ideas for better categorization or other feautures please let us know and we'll try our best to implement them. 
 
 ## Questions to start
 **Our Top 5:**
@@ -44,8 +44,8 @@ If you have ideas for better categorization or other feautures please let us kno
 
 ### Reflection
 - What touched me in a special way? What made me feel happy / hurt / moved / scared / curios... ? 
-- From a broader perspective, which things don't seems that important anymore?
-- What are the beliefs that are important to me?
+- From a broader perspective, which things don't seem that important anymore?
+- What are the beliefs important to me?
 - What are the guiding principles or ideas that are deeply important to me?
 - What are my core values? 
 - What is the impact or difference I want to make? How do I want to serve, contribute or add value?
@@ -59,16 +59,16 @@ If you have ideas for better categorization or other feautures please let us kno
   - How did I encounter them?  
   - How can I avoid this mistake the next time? 
 -  What have I done for good today?
-- What kind of inspiration / motiviation / information do I need to improve my future?
+- What kind of inspiration / motivation / information do I need to improve my future?
 - What can I do to improve my future today?
 - What are my passions? What do I love? 
 
 ### Growth
-- Are there any beliefs that I have that are limiting me?
+- Are there any beliefs I have that are limiting me?
 - How have I controlled the direction my life took this year?
 - What have I done to improve my self-confidence this year?
 - What have I done to be kind to myself this year?
-- How can I control my self-talk when I experience failure?
+- How can I control myself when I experience failure?
 - What do I need to change about the way I think of myself?
 - How can I create more self-confidence for myself?
 - Who has had the greatest impact on my life?
@@ -104,7 +104,7 @@ If you have ideas for better categorization or other feautures please let us kno
 - How was my relationship with my colleagues today?
   - What can I do to improve the relationship?
 - Would I be pleased with the way I performed at work if I were my manager?
-- Did I make every effort to collaborate with and get along with my coworkers?
+- Did I try to collaborate with and get along with my coworkers?
 
 ### Productivity
 - Am I using my time wisely?
@@ -115,7 +115,7 @@ If you have ideas for better categorization or other feautures please let us kno
 - How did I carry out my work today?
 - How can I serve, contribute or add value with my work today?
 - Was I productive today?
-  - What stopped me from beeing productive?
+  - What stopped me from being productive?
   - How can I avoid this distraction in the future?
 - What actions or methods could I have done differently today?
 - What tasks did I do today?
@@ -167,7 +167,7 @@ If you have ideas for better categorization or other feautures please let us kno
 - What would I like to do to make my family happier?
 
 ### Relationship
-- Did I let my parnter know I love them?
+- Did I let my partner know I love them?
 - How can I show more gratitude for my partner’s efforts?
 - Do I still want the same things as my partner?
 - What did I do to make my partner’s life easier today / this week / this month?
