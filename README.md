@@ -13,7 +13,7 @@ Self-reflection and introspection are some important psychological exercises tha
 The aim of this catalogue is to provide and maintain an optimal overview and an introduction to self-reflection and introspection through the development of a catalog of questions. 
 
 ## How to Use and Contribute
-- Go through the [Table of Contents](#table-of-contents) and choose the tool.
+- Go through the [Table of Contents](#table-of-contents-question-categories) and choose the tool.
 - Search for a keyword or topic (for example: "career", "relationship")
 - [Ask us](https://twitter.com/yournally) on Twitter. 
 
