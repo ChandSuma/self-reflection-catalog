@@ -25,7 +25,7 @@ If you have ideas for better categorization or other feautures please let us kno
   * [Questions to start](#questions-to-start)
   * [Personal Growth](#personal-growth)
   * [Health](#health)
-  * [Career & Financials](#career---financials)
+  * [Career & Financials](#career--financials)
   * [Social](#social)
 
 
