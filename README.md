@@ -1,4 +1,11 @@
 # Self-Reflection Question Catalog
+
+<p align="center">
+    <a href="https://yournally.app/en/home">
+        <img src="https://github.com/Yournally/self-reflection-catalog/blob/master/Media/self-reflection-cover.png" alt="Self-Reflection Question Catalog Cover"/>
+    </a>
+</p>
+
 **A catalog of questions for introspection, mindfullness & self-improvement**
 
 Self-reflection and introspection are some important psychological exercises that can help you develop your mind, grow and gain value from past mistakes.
@@ -12,12 +19,6 @@ The aim of this catalogue is to provide and maintain an optimal overview and an 
 
 If you want to add some great and helpful question, just send a Pull Request and respect our [Contribution Guidelines](https://github.com/Yournally/self-reflection-catalog/blob/master/Contribution-Guidelines.md) (have a look, they are very simple). 
 If you have ideas for better categorization or other feautures please let us know an we'll try our best to implement them. 
-
-<p align="center">
-    <a href="https://yournally.app/en/home">
-        <img src="https://github.com/Yournally/self-reflection-catalog/blob/master/Media/self-reflection-cover.png" alt="Self-Reflection Question Catalog Cover"/>
-    </a>
-</p>
 
 ## Questions to start:
 
