@@ -4,7 +4,7 @@ Just send a Pull Request and respect our standards.
 
 ## Our Standards
 
-Before you contribute please: 
+**Before you contribute please:**
 - Search previous suggestions before making a new one to prevent duplicates.
 - Try to make your Pull Request descriptive.
 - New categories are welcomed, if you have 3+ questions to submit to that category.
@@ -12,7 +12,7 @@ Before you contribute please:
 - Check spelling and grammar.
 - One question can go only to one category
 
-Examples of behavior that contributes to creating a positive environment include:
+**Examples of behavior that contributes to creating a positive environment include:**
 
 - Using welcoming and inclusive language
 - Being respectful of differing viewpoints and experiences
@@ -20,7 +20,7 @@ Examples of behavior that contributes to creating a positive environment include
 - Focusing on what is best for the community
 - Showing empathy towards other community members
 
-Examples of unacceptable behavior by participants include:
+**Examples of unacceptable behavior by participants include:**
 
 - The use of sexualized language or imagery and unwelcome sexual attention or advances
 - Trolling, insulting/derogatory comments, and personal or political attacks
