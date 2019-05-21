@@ -17,7 +17,7 @@ The aim of this catalogue is to provide and maintain an optimal overview and an 
 - Search for a keyword or topic (for example: "career", "relationship")
 - [Ask us](https://twitter.com/yournally) on Twitter. 
 
-If you want to add some great and helpful question, just send a Pull Request and respect our [Contribution Guidelines](https://github.com/Yournally/self-reflection-catalog/blob/master/Contribution-Guidelines.md) (have a look, they are very simple). 
+If you want to add some great and helpful questions, just send a Pull Request and respect our [Contribution Guidelines](https://github.com/Yournally/self-reflection-catalog/blob/master/Contribution-Guidelines.md) (have a look, they are very simple). 
 If you have ideas for better categorization or other feautures please let us know an we'll try our best to implement them. 
 
 ## Questions to start
