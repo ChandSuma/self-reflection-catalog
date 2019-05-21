@@ -4,9 +4,7 @@
 - Search for a keyword or topic (for example: "career", "relationship")
 - [Ask us](https://twitter.com/yournally) on Twitter. 
 
-If you found some great design tool, just send a Pull Request and respect our Contribution Guidelines (have a look, they are very simple). 
-We use such labels for free free.svg, open source open-source.svg and Mac only mac.svg tools, don't forget to add them. Now I'd love to see your suggestions!
-
+If you want to add some great and helpful question, just send a Pull Request and respect our [Contribution Guidelines](https://github.com/Yournally/self-reflection-catalog/blob/master/Contribution-Guidelines.md) (have a look, they are very simple). 
 
 <p align="center">
     <a href="https://yournally.app/en/home">
