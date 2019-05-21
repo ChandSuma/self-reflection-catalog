@@ -92,11 +92,11 @@ If you have ideas for better categorization or other feautures please let us kno
 - What did I dream of last night?
 
 ### Food
-- What sport did I do today to become healthier?
 - What food did I eat today? 
 - How much water did I drink today?
 
 ### Physical Condition
+- What sport did I do today to become healthier?
 - How is my physical condition today? 
   - What can I do to improve my physical condition? 
   - Have I done something for my physical condition today?
