@@ -6,7 +6,7 @@
   </a>
 </p>
 
-**A catalog of questions for introspection, mindfullness & self-improvement**
+**A catalog of questions for introspection, mindfulness & self-improvement**
 
 Self-reflection and introspection are some important psychological exercises that can help you develop your mind, grow and gain value from past mistakes.
 
